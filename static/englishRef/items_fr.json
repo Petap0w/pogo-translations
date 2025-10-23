@@ -55,9 +55,9 @@
   "Super Incubator": "Super-Incubateur",
   "Timed Incubator": "Incubateur ponctuel",
   "Incubator Special": "Incubator Special",
-  "Pokémon Storage": "Pokemon Storage Upgrade Earned",
-  "Item Bag": "Item Storage Upgrade Earned",
-  "Postcard Pages": "Postcard Storage Upgrade Earned",
+  "Pokémon Storage": "Stockage de Pokémon",
+  "Item Bag": "Sac d’objets",
+  "Postcard Pages": "Pages de Cartes postales",
   "Sun Stone": "Pierre Soleil",
   "King's Rock": "Roche Royale",
   "Metal Coat": "Peau Métal",
@@ -121,5 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Gift Storage": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Stockage de Cadeaux"
 }
