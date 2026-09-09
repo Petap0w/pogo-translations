@@ -4917,6 +4917,8 @@
   "Take on a Max Battle": "맥스배틀을 1번 진행한다",
   "{{amount_0}} dropped items when caught!": "{{amount_0}}(을)를 잡았을 때 에너지를 손에 넣었다!",
   "{{amount_0}} dropped an item when caught!": "{{amount_0}}(을)를 잡았을 때 에너지를 손에 넣었다!",
+  "Spin {{amount_0}} PokéStops featuring Pikachu wearing a hanbok that you haven’t spun yet": "한복을 입은 피카츄가 있는 돌린 적이 없는 포켓스톱을 {{amount_0}}개 돌린다",
+  "Spin a PokéStop featuring Pikachu wearing a hanbok that you haven’t spun yet": "한복을 입은 피카츄가 있는 돌린 적이 없는 포켓스톱을 돌린다",
   "Level up a Max Move {{amount_0}} times": "맥스기술을 {{amount_0}}번 레벨업 한다",
   "Level up a Max Move": "맥스기술을 1번 레벨업하기",
   "{{amount_0}} Mega-Evolved Pokémon in Lobby": "메가진화한 포켓몬의 수: {{amount_0}}",
